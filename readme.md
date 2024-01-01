@@ -1,4 +1,4 @@
-# House Price Regression Model
+# Heart Disease Binary Classification Model
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-yes-orange.svg)
